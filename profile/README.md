@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/mohaeng.png" width="120" alt="MOHAENG Logo" />
-
 # MOHAENG
 **모두의 여행 계획 · 여행 일기 서비스**
 
