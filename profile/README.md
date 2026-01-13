@@ -43,7 +43,7 @@ MOHAENG과 함께라면
 
 ---
 
-## ⭐ Tech Stack ⭐
+<h2 align="center">⭐ Tech Stack ⭐</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
